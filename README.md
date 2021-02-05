@@ -1,0 +1,1 @@
+Simple Node Express service to return charities from Charity Navigator API
